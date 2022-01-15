@@ -1,0 +1,1 @@
+# versio-firmware-cmake-template
