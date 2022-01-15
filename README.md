@@ -1,5 +1,7 @@
 # versio-firmware-cmake-template
 
+> Minimal cmake template for developing custom [versio platform](https://noiseengineering.us/pages/world-of-versio) firmware
+
 ## Get started
 - [Prepare environment](https://github.com/electro-smith/DaisyWiki/wiki)
 - Clone the repo
