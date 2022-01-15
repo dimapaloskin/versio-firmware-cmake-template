@@ -2,7 +2,7 @@
 
 ## Get started
 - [Prepare environment](https://github.com/electro-smith/DaisyWiki/wiki)
-- clone the repo
+- Clone the repo
 - Change `FIRMWARE_NAME` in the `CmakeLists.txt` file
 - Change path to built firmware in the `flash.sh` file
 - Build
